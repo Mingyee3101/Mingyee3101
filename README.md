@@ -18,3 +18,5 @@ Hearts of Iron 2 Darkest Hour하고 Hearts of Iron 4의 여러 모드들을 개�
 * naranman#8255 (쓸때없는 메세지 보내면 차단합니다. 또한 욕설이 섞인 메세지도 차단합니다.)
 
 * [스팀 프로필](https://steamcommunity.com/id/nonickname4321/)
+
+[![나란사람's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mingyee3101&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
