@@ -7,7 +7,6 @@ Hearts of Iron 2 Darkest Hour하고 Hearts of Iron 4의 여러 모드들을 개�
 * [Broken Kaiserreich](https://github.com/orgs/bkmod/dashboard)
 * Empire of Azure Hills (추후 깃허브에 추가할 예정)
 * Neue Weltordunng (DHR모드, 이것도 추후 깃허브에 추가할 예정)
-* Ostwall is Solid (DHR모드, 위와 동일)
 
 ## 재개발 예정인 모드
 사정상으로 취소했다가 다시 사정이 나아지면 재개발할 모드입니다.
