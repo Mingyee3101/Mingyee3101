@@ -4,7 +4,6 @@ Hearts of Iron 2 Darkest Hour하고 Hearts of Iron 4의 여러 모드들을 개�
 ## 개발중인 모드
 * [Cold War Crisis](https://github.com/orgs/Cold-War-Crisis/dashboard)
 * [Fin de Siecle](https://github.com/orgs/Fin-de-Siecle/dashboard)
-* [Broken Kaiserreich](https://github.com/orgs/bkmod/dashboard)
 * Empire of Azure Hills (추후 깃허브에 추가할 예정)
 * Neue Weltordunng (DHR모드, 이것도 추후 깃허브에 추가할 예정)
 
