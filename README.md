@@ -1,5 +1,5 @@
 # 나 누구인가?
-Hearts of Iron 2 Darkest Hour의 모드를 만드는 사람, Hoi4도 만들고 있었으나 4는 접은상황입니다.
+Hearts of Iron 2 Darkest Hour의 모드를 만드는 사람
 
 ## 개발중인 모드
 * Neue Weltordunng
